@@ -1,0 +1,2224 @@
+{
+    "175268677028024320": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 21, 
+                    "label": "q3", 
+                    "startOffset": 8
+                }, 
+                {
+                    "endOffset": 28, 
+                    "label": "q1", 
+                    "startOffset": 23
+                }
+            ], 
+            [
+                {
+                    "endOffset": 21, 
+                    "label": "q3", 
+                    "startOffset": 8
+                }, 
+                {
+                    "endOffset": 29, 
+                    "label": "q1", 
+                    "startOffset": 23
+                }
+            ], 
+            [
+                {
+                    "endOffset": 21, 
+                    "label": "q3", 
+                    "startOffset": 8
+                }, 
+                {
+                    "endOffset": 29, 
+                    "label": "q1", 
+                    "startOffset": 23
+                }
+            ], 
+            [
+                {
+                    "endOffset": 21, 
+                    "label": "q3", 
+                    "startOffset": 8
+                }, 
+                {
+                    "endOffset": 28, 
+                    "label": "q1", 
+                    "startOffset": 23
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2012-03-01 17:18:03", 
+        "issue": "aca", 
+        "text": ""
+    }, 
+    "543523247837675520": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 5, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 14, 
+                    "label": "q2", 
+                    "startOffset": 11
+                }, 
+                {
+                    "endOffset": 31, 
+                    "label": "q2", 
+                    "startOffset": 21
+                }, 
+                {
+                    "endOffset": 102, 
+                    "label": "q1", 
+                    "startOffset": 90
+                }
+            ], 
+            [], 
+            [
+                {
+                    "endOffset": 5, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 14, 
+                    "label": "q2", 
+                    "startOffset": 11
+                }, 
+                {
+                    "endOffset": 34, 
+                    "label": "q2", 
+                    "startOffset": 32
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2014-12-12 21:50:15", 
+        "issue": "immig", 
+        "text": ""
+    }, 
+    "207926044248903681": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 80, 
+                    "label": "q1", 
+                    "startOffset": 69
+                }, 
+                {
+                    "endOffset": 99, 
+                    "label": "q1", 
+                    "startOffset": 94
+                }, 
+                {
+                    "endOffset": 119, 
+                    "label": "q2", 
+                    "startOffset": 116
+                }, 
+                {
+                    "endOffset": 143, 
+                    "label": "q1", 
+                    "startOffset": 130
+                }
+            ], 
+            [
+                {
+                    "endOffset": 19, 
+                    "label": "q2", 
+                    "startOffset": 13
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q1", 
+                    "startOffset": 70
+                }, 
+                {
+                    "endOffset": 99, 
+                    "label": "q1", 
+                    "startOffset": 94
+                }, 
+                {
+                    "endOffset": 118, 
+                    "label": "q2", 
+                    "startOffset": 116
+                }, 
+                {
+                    "endOffset": 143, 
+                    "label": "q1", 
+                    "startOffset": 131
+                }
+            ], 
+            [
+                {
+                    "endOffset": 19, 
+                    "label": "q2", 
+                    "startOffset": 13
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q1", 
+                    "startOffset": 70
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2012-05-30 20:06:46", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "293809181629235200": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 16, 
+                    "label": "q1", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 79, 
+                    "label": "q3", 
+                    "startOffset": 71
+                }, 
+                {
+                    "endOffset": 93, 
+                    "label": "q2", 
+                    "startOffset": 81
+                }
+            ], 
+            [
+                {
+                    "endOffset": 16, 
+                    "label": "q1", 
+                    "startOffset": 4
+                }
+            ], 
+            [
+                {
+                    "endOffset": 16, 
+                    "label": "q1", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q2", 
+                    "startOffset": 71
+                }, 
+                {
+                    "endOffset": 93, 
+                    "label": "q2", 
+                    "startOffset": 81
+                }
+            ], 
+            [
+                {
+                    "endOffset": 17, 
+                    "label": "q1", 
+                    "startOffset": 12
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q3", 
+                    "startOffset": 71
+                }, 
+                {
+                    "endOffset": 93, 
+                    "label": "q2", 
+                    "startOffset": 81
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2013-01-22 19:55:42", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "320601957192589312": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 109, 
+                    "label": "q1", 
+                    "startOffset": 92
+                }, 
+                {
+                    "endOffset": 137, 
+                    "label": "q3", 
+                    "startOffset": 126
+                }
+            ], 
+            [
+                {
+                    "endOffset": 109, 
+                    "label": "q1", 
+                    "startOffset": 92
+                }, 
+                {
+                    "endOffset": 137, 
+                    "label": "q3", 
+                    "startOffset": 126
+                }
+            ], 
+            [
+                {
+                    "endOffset": 10, 
+                    "label": "q2", 
+                    "startOffset": 3
+                }, 
+                {
+                    "endOffset": 68, 
+                    "label": "q1", 
+                    "startOffset": 57
+                }, 
+                {
+                    "endOffset": 137, 
+                    "label": "q3", 
+                    "startOffset": 126
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2013-04-06 18:20:37", 
+        "issue": "guns", 
+        "text": ""
+    }, 
+    "339516688104042496": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 6, 
+                    "label": "q3", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 60, 
+                    "label": "q3", 
+                    "startOffset": 42
+                }, 
+                {
+                    "endOffset": 97, 
+                    "label": "q2", 
+                    "startOffset": 82
+                }, 
+                {
+                    "endOffset": 107, 
+                    "label": "q1", 
+                    "startOffset": 98
+                }
+            ], 
+            [
+                {
+                    "endOffset": 6, 
+                    "label": "q3", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 60, 
+                    "label": "q2", 
+                    "startOffset": 19
+                }, 
+                {
+                    "endOffset": 97, 
+                    "label": "q2", 
+                    "startOffset": 82
+                }, 
+                {
+                    "endOffset": 107, 
+                    "label": "q1", 
+                    "startOffset": 97
+                }
+            ], 
+            [
+                {
+                    "endOffset": 60, 
+                    "label": "q3", 
+                    "startOffset": 42
+                }, 
+                {
+                    "endOffset": 107, 
+                    "label": "q1", 
+                    "startOffset": 98
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2013-05-28 23:01:01", 
+        "issue": "aca", 
+        "text": ""
+    }, 
+    "349731080049401856": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 42, 
+                    "label": "q1", 
+                    "startOffset": 13
+                }, 
+                {
+                    "endOffset": 92, 
+                    "label": "q3", 
+                    "startOffset": 66
+                }
+            ], 
+            [
+                {
+                    "endOffset": 42, 
+                    "label": "q1", 
+                    "startOffset": 37
+                }, 
+                {
+                    "endOffset": 92, 
+                    "label": "q3", 
+                    "startOffset": 73
+                }, 
+                {
+                    "endOffset": 113, 
+                    "label": "q2", 
+                    "startOffset": 99
+                }
+            ], 
+            [
+                {
+                    "endOffset": 12, 
+                    "label": "q2", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 42, 
+                    "label": "q1", 
+                    "startOffset": 37
+                }, 
+                {
+                    "endOffset": 92, 
+                    "label": "q3", 
+                    "startOffset": 74
+                }, 
+                {
+                    "endOffset": 113, 
+                    "label": "q2", 
+                    "startOffset": 100
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2013-06-26 03:29:21", 
+        "issue": "immig", 
+        "text": ""
+    }, 
+    "425821532427157504": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 52, 
+                    "label": "q1", 
+                    "startOffset": 18
+                }, 
+                {
+                    "endOffset": 89, 
+                    "label": "q3", 
+                    "startOffset": 80
+                }
+            ], 
+            [
+                {
+                    "endOffset": 53, 
+                    "label": "q1", 
+                    "startOffset": 34
+                }, 
+                {
+                    "endOffset": 84, 
+                    "label": "q3", 
+                    "startOffset": 80
+                }
+            ], 
+            [
+                {
+                    "endOffset": 52, 
+                    "label": "q1", 
+                    "startOffset": 11
+                }, 
+                {
+                    "endOffset": 89, 
+                    "label": "q3", 
+                    "startOffset": 79
+                }
+            ], 
+            [
+                {
+                    "endOffset": 53, 
+                    "label": "q1", 
+                    "startOffset": 17
+                }, 
+                {
+                    "endOffset": 89, 
+                    "label": "q3", 
+                    "startOffset": 80
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2014-01-22 02:45:39", 
+        "issue": "aca", 
+        "text": ""
+    }, 
+    "453929705536647168": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 7, 
+                    "label": "q2", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 122, 
+                    "label": "q1", 
+                    "startOffset": 106
+                }
+            ], 
+            [], 
+            [
+                {
+                    "endOffset": 7, 
+                    "label": "q2", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 114, 
+                    "label": "q1", 
+                    "startOffset": 106
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2014-04-09 16:17:30", 
+        "issue": "guns", 
+        "text": ""
+    }, 
+    "534467221469548547": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 45, 
+                    "label": "q2", 
+                    "startOffset": 34
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q1", 
+                    "startOffset": 61
+                }, 
+                {
+                    "endOffset": 97, 
+                    "label": "q1", 
+                    "startOffset": 91
+                }, 
+                {
+                    "endOffset": 113, 
+                    "label": "q3", 
+                    "startOffset": 101
+                }
+            ], 
+            [
+                {
+                    "endOffset": 46, 
+                    "label": "q2", 
+                    "startOffset": 34
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q1", 
+                    "startOffset": 61
+                }, 
+                {
+                    "endOffset": 113, 
+                    "label": "q3", 
+                    "startOffset": 101
+                }
+            ], 
+            [
+                {
+                    "endOffset": 45, 
+                    "label": "q2", 
+                    "startOffset": 33
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q1", 
+                    "startOffset": 61
+                }, 
+                {
+                    "endOffset": 113, 
+                    "label": "q3", 
+                    "startOffset": 100
+                }
+            ], 
+            [
+                {
+                    "endOffset": 82, 
+                    "label": "q1", 
+                    "startOffset": 61
+                }, 
+                {
+                    "endOffset": 99, 
+                    "label": "q3", 
+                    "startOffset": 91
+                }, 
+                {
+                    "endOffset": 106, 
+                    "label": "q3", 
+                    "startOffset": 101
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2014-11-17 22:04:50", 
+        "issue": "guns", 
+        "text": ""
+    }, 
+    "593071595230523392": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 46, 
+                    "label": "q2", 
+                    "startOffset": 33
+                }, 
+                {
+                    "endOffset": 50, 
+                    "label": "q2", 
+                    "startOffset": 49
+                }, 
+                {
+                    "endOffset": 73, 
+                    "label": "q1", 
+                    "startOffset": 64
+                }
+            ], 
+            [
+                {
+                    "endOffset": 46, 
+                    "label": "q2", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 50, 
+                    "label": "q2", 
+                    "startOffset": 49
+                }, 
+                {
+                    "endOffset": 73, 
+                    "label": "q1", 
+                    "startOffset": 64
+                }
+            ], 
+            [
+                {
+                    "endOffset": 72, 
+                    "label": "q1", 
+                    "startOffset": 64
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-04-28 15:17:41", 
+        "issue": "lgbt", 
+        "text": ""
+    }, 
+    "609057725323034624": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 33, 
+                    "label": "q2", 
+                    "startOffset": 21
+                }, 
+                {
+                    "endOffset": 101, 
+                    "label": "q1", 
+                    "startOffset": 95
+                }
+            ], 
+            [
+                {
+                    "endOffset": 16, 
+                    "label": "q2", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 32, 
+                    "label": "q2", 
+                    "startOffset": 21
+                }, 
+                {
+                    "endOffset": 93, 
+                    "label": "q2", 
+                    "startOffset": 39
+                }, 
+                {
+                    "endOffset": 99, 
+                    "label": "q1", 
+                    "startOffset": 95
+                }
+            ], 
+            [
+                {
+                    "endOffset": 32, 
+                    "label": "q2", 
+                    "startOffset": 20
+                }, 
+                {
+                    "endOffset": 99, 
+                    "label": "q1", 
+                    "startOffset": 95
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-06-11 18:00:52", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "611539529070178304": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 30, 
+                    "label": "q3", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q3", 
+                    "startOffset": 74
+                }, 
+                {
+                    "endOffset": 109, 
+                    "label": "q1", 
+                    "startOffset": 99
+                }
+            ], 
+            [
+                {
+                    "endOffset": 30, 
+                    "label": "q1", 
+                    "startOffset": 4
+                }
+            ], 
+            [
+                {
+                    "endOffset": 81, 
+                    "label": "q3", 
+                    "startOffset": 74
+                }
+            ], 
+            [
+                {
+                    "endOffset": 30, 
+                    "label": "q3", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q3", 
+                    "startOffset": 56
+                }, 
+                {
+                    "endOffset": 109, 
+                    "label": "q1", 
+                    "startOffset": 99
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2015-06-18 14:22:40", 
+        "issue": "guns", 
+        "text": ""
+    }, 
+    "611550828852285440": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 44, 
+                    "label": "q1", 
+                    "startOffset": 24
+                }, 
+                {
+                    "endOffset": 109, 
+                    "label": "q1", 
+                    "startOffset": 99
+                }
+            ], 
+            [
+                {
+                    "endOffset": 43, 
+                    "label": "q1", 
+                    "startOffset": 25
+                }
+            ], 
+            [
+                {
+                    "endOffset": 43, 
+                    "label": "q1", 
+                    "startOffset": 25
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2015-06-18 15:07:34", 
+        "issue": "guns", 
+        "text": ""
+    }, 
+    "611609562400096256": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 36, 
+                    "label": "q3", 
+                    "startOffset": 16
+                }, 
+                {
+                    "endOffset": 90, 
+                    "label": "q1", 
+                    "startOffset": 87
+                }
+            ], 
+            [
+                {
+                    "endOffset": 36, 
+                    "label": "q1", 
+                    "startOffset": 18
+                }, 
+                {
+                    "endOffset": 72, 
+                    "label": "q1", 
+                    "startOffset": 53
+                }, 
+                {
+                    "endOffset": 91, 
+                    "label": "q2", 
+                    "startOffset": 87
+                }, 
+                {
+                    "endOffset": 138, 
+                    "label": "q2", 
+                    "startOffset": 134
+                }
+            ], 
+            [
+                {
+                    "endOffset": 15, 
+                    "label": "q2", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 36, 
+                    "label": "q3", 
+                    "startOffset": 18
+                }, 
+                {
+                    "endOffset": 59, 
+                    "label": "q1", 
+                    "startOffset": 53
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2015-06-18 19:00:57", 
+        "issue": "guns", 
+        "text": ""
+    }, 
+    "618859074600456192": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 12, 
+                    "label": "q3", 
+                    "startOffset": 0
+                }
+            ], 
+            [
+                {
+                    "endOffset": 13, 
+                    "label": "q3", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 39, 
+                    "label": "q1", 
+                    "startOffset": 27
+                }, 
+                {
+                    "endOffset": 104, 
+                    "label": "q3", 
+                    "startOffset": 93
+                }
+            ], 
+            [
+                {
+                    "endOffset": 12, 
+                    "label": "q3", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 39, 
+                    "label": "q1", 
+                    "startOffset": 27
+                }, 
+                {
+                    "endOffset": 72, 
+                    "label": "q2", 
+                    "startOffset": 71
+                }, 
+                {
+                    "endOffset": 105, 
+                    "label": "q3", 
+                    "startOffset": 93
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2015-07-08 19:07:55", 
+        "issue": "immig", 
+        "text": ""
+    }, 
+    "621061478695759872": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 19, 
+                    "label": "q3", 
+                    "startOffset": 13
+                }, 
+                {
+                    "endOffset": 82, 
+                    "label": "q1", 
+                    "startOffset": 42
+                }, 
+                {
+                    "endOffset": 106, 
+                    "label": "q2", 
+                    "startOffset": 97
+                }
+            ], 
+            [
+                {
+                    "endOffset": 18, 
+                    "label": "q3", 
+                    "startOffset": 12
+                }, 
+                {
+                    "endOffset": 67, 
+                    "label": "q1", 
+                    "startOffset": 61
+                }, 
+                {
+                    "endOffset": 105, 
+                    "label": "q2", 
+                    "startOffset": 97
+                }
+            ], 
+            [
+                {
+                    "endOffset": 15, 
+                    "label": "q3", 
+                    "startOffset": 13
+                }, 
+                {
+                    "endOffset": 53, 
+                    "label": "q1", 
+                    "startOffset": 43
+                }, 
+                {
+                    "endOffset": 67, 
+                    "label": "q1", 
+                    "startOffset": 61
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-14 20:59:29", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "621076656875282432": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 42, 
+                    "label": "q3", 
+                    "startOffset": 23
+                }, 
+                {
+                    "endOffset": 88, 
+                    "label": "q1", 
+                    "startOffset": 72
+                }
+            ], 
+            [
+                {
+                    "endOffset": 41, 
+                    "label": "q3", 
+                    "startOffset": 23
+                }
+            ], 
+            [
+                {
+                    "endOffset": 41, 
+                    "label": "q3", 
+                    "startOffset": 23
+                }, 
+                {
+                    "endOffset": 88, 
+                    "label": "q1", 
+                    "startOffset": 72
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-14 21:59:48", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "621322623184711685": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 42, 
+                    "label": "q3", 
+                    "startOffset": 24
+                }, 
+                {
+                    "endOffset": 107, 
+                    "label": "q1", 
+                    "startOffset": 101
+                }
+            ], 
+            [
+                {
+                    "endOffset": 52, 
+                    "label": "q3", 
+                    "startOffset": 24
+                }, 
+                {
+                    "endOffset": 89, 
+                    "label": "q1", 
+                    "startOffset": 79
+                }, 
+                {
+                    "endOffset": 107, 
+                    "label": "q1", 
+                    "startOffset": 101
+                }
+            ], 
+            [
+                {
+                    "endOffset": 52, 
+                    "label": "q3", 
+                    "startOffset": 24
+                }, 
+                {
+                    "endOffset": 107, 
+                    "label": "q1", 
+                    "startOffset": 79
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-15 14:17:11", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "621408617296723968": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 22, 
+                    "label": "q3", 
+                    "startOffset": 3
+                }
+            ], 
+            [
+                {
+                    "endOffset": 23, 
+                    "label": "q3", 
+                    "startOffset": 4
+                }
+            ], 
+            [
+                {
+                    "endOffset": 22, 
+                    "label": "q3", 
+                    "startOffset": 4
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-15 19:58:54", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "621431099844096000": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 28, 
+                    "label": "q2", 
+                    "startOffset": 15
+                }, 
+                {
+                    "endOffset": 110, 
+                    "label": "q3", 
+                    "startOffset": 92
+                }
+            ], 
+            [
+                {
+                    "endOffset": 2, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 110, 
+                    "label": "q3", 
+                    "startOffset": 92
+                }
+            ], 
+            [
+                {
+                    "endOffset": 1, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 110, 
+                    "label": "q3", 
+                    "startOffset": 92
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-15 21:28:14", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "621476875831898112": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 6, 
+                    "label": "q3", 
+                    "startOffset": 1
+                }
+            ], 
+            [
+                {
+                    "endOffset": 7, 
+                    "label": "q3", 
+                    "startOffset": 2
+                }, 
+                {
+                    "endOffset": 49, 
+                    "label": "q1", 
+                    "startOffset": 39
+                }
+            ], 
+            [
+                {
+                    "endOffset": 6, 
+                    "label": "q3", 
+                    "startOffset": 2
+                }, 
+                {
+                    "endOffset": 49, 
+                    "label": "q1", 
+                    "startOffset": 39
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-16 00:30:08", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "621711087751327744": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 49, 
+                    "label": "q1", 
+                    "startOffset": 30
+                }, 
+                {
+                    "endOffset": 139, 
+                    "label": "q3", 
+                    "startOffset": 121
+                }
+            ], 
+            [
+                {
+                    "endOffset": 139, 
+                    "label": "q3", 
+                    "startOffset": 121
+                }
+            ], 
+            [
+                {
+                    "endOffset": 49, 
+                    "label": "q1", 
+                    "startOffset": 39
+                }, 
+                {
+                    "endOffset": 139, 
+                    "label": "q3", 
+                    "startOffset": 122
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-16 16:00:48", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "621802711059722241": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 57, 
+                    "label": "q1", 
+                    "startOffset": 53
+                }, 
+                {
+                    "endOffset": 70, 
+                    "label": "q2", 
+                    "startOffset": 67
+                }
+            ], 
+            [
+                {
+                    "endOffset": 2, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 66, 
+                    "label": "q2", 
+                    "startOffset": 33
+                }, 
+                {
+                    "endOffset": 69, 
+                    "label": "q2", 
+                    "startOffset": 68
+                }
+            ], 
+            [
+                {
+                    "endOffset": 113, 
+                    "label": "q2", 
+                    "startOffset": 86
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-16 22:04:53", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "623624642532655104": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 45, 
+                    "label": "q3", 
+                    "startOffset": 27
+                }, 
+                {
+                    "endOffset": 67, 
+                    "label": "q1", 
+                    "startOffset": 55
+                }, 
+                {
+                    "endOffset": 70, 
+                    "label": "q2", 
+                    "startOffset": 69
+                }
+            ], 
+            [
+                {
+                    "endOffset": 45, 
+                    "label": "q3", 
+                    "startOffset": 27
+                }, 
+                {
+                    "endOffset": 106, 
+                    "label": "q2", 
+                    "startOffset": 86
+                }
+            ], 
+            [
+                {
+                    "endOffset": 45, 
+                    "label": "q3", 
+                    "startOffset": 27
+                }, 
+                {
+                    "endOffset": 67, 
+                    "label": "q1", 
+                    "startOffset": 55
+                }, 
+                {
+                    "endOffset": 72, 
+                    "label": "q2", 
+                    "startOffset": 69
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-21 22:44:35", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "623910810159550464": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 8, 
+                    "label": "q2", 
+                    "startOffset": 7
+                }, 
+                {
+                    "endOffset": 43, 
+                    "label": "q2", 
+                    "startOffset": 24
+                }, 
+                {
+                    "endOffset": 93, 
+                    "label": "q3", 
+                    "startOffset": 75
+                }
+            ], 
+            [
+                {
+                    "endOffset": 43, 
+                    "label": "q2", 
+                    "startOffset": 24
+                }, 
+                {
+                    "endOffset": 93, 
+                    "label": "q3", 
+                    "startOffset": 75
+                }
+            ], 
+            [
+                {
+                    "endOffset": 8, 
+                    "label": "q2", 
+                    "startOffset": 7
+                }, 
+                {
+                    "endOffset": 43, 
+                    "label": "q2", 
+                    "startOffset": 16
+                }, 
+                {
+                    "endOffset": 93, 
+                    "label": "q3", 
+                    "startOffset": 75
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-22 17:41:43", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "624234805367033856": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 1, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 72, 
+                    "label": "q3", 
+                    "startOffset": 54
+                }, 
+                {
+                    "endOffset": 115, 
+                    "label": "q2", 
+                    "startOffset": 106
+                }
+            ], 
+            [
+                {
+                    "endOffset": 1, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 72, 
+                    "label": "q3", 
+                    "startOffset": 54
+                }
+            ], 
+            [
+                {
+                    "endOffset": 1, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 72, 
+                    "label": "q3", 
+                    "startOffset": 54
+                }, 
+                {
+                    "endOffset": 139, 
+                    "label": "q2", 
+                    "startOffset": 106
+                }
+            ], 
+            [
+                {
+                    "endOffset": 1, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 72, 
+                    "label": "q3", 
+                    "startOffset": 54
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-23 15:09:09", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "625752973176631296": {
+        "annotations": [
+            [], 
+            [
+                {
+                    "endOffset": 26, 
+                    "label": "q3", 
+                    "startOffset": 7
+                }, 
+                {
+                    "endOffset": 48, 
+                    "label": "q3", 
+                    "startOffset": 33
+                }, 
+                {
+                    "endOffset": 77, 
+                    "label": "q1", 
+                    "startOffset": 59
+                }
+            ], 
+            [
+                {
+                    "endOffset": 17, 
+                    "label": "q2", 
+                    "startOffset": 7
+                }, 
+                {
+                    "endOffset": 26, 
+                    "label": "q2", 
+                    "startOffset": 17
+                }, 
+                {
+                    "endOffset": 48, 
+                    "label": "q2", 
+                    "startOffset": 33
+                }, 
+                {
+                    "endOffset": 77, 
+                    "label": "q3", 
+                    "startOffset": 60
+                }, 
+                {
+                    "endOffset": 102, 
+                    "label": "q1", 
+                    "startOffset": 85
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-27 19:41:49", 
+        "issue": "lgbt", 
+        "text": ""
+    }, 
+    "626044698394820609": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 24, 
+                    "label": "q3", 
+                    "startOffset": 6
+                }, 
+                {
+                    "endOffset": 75, 
+                    "label": "q2", 
+                    "startOffset": 73
+                }
+            ], 
+            [
+                {
+                    "endOffset": 24, 
+                    "label": "q3", 
+                    "startOffset": 6
+                }, 
+                {
+                    "endOffset": 42, 
+                    "label": "q2", 
+                    "startOffset": 41
+                }, 
+                {
+                    "endOffset": 75, 
+                    "label": "q2", 
+                    "startOffset": 73
+                }, 
+                {
+                    "endOffset": 111, 
+                    "label": "q1", 
+                    "startOffset": 107
+                }
+            ], 
+            [
+                {
+                    "endOffset": 24, 
+                    "label": "q3", 
+                    "startOffset": 6
+                }, 
+                {
+                    "endOffset": 104, 
+                    "label": "q1", 
+                    "startOffset": 91
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-28 15:01:02", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "626120032536367104": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 85, 
+                    "label": "q3", 
+                    "startOffset": 66
+                }, 
+                {
+                    "endOffset": 104, 
+                    "label": "q1", 
+                    "startOffset": 86
+                }
+            ], 
+            [
+                {
+                    "endOffset": 83, 
+                    "label": "q3", 
+                    "startOffset": 65
+                }
+            ], 
+            [
+                {
+                    "endOffset": 83, 
+                    "label": "q3", 
+                    "startOffset": 66
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-28 20:00:23", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "626835893081477120": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 59, 
+                    "label": "q3", 
+                    "startOffset": 42
+                }
+            ], 
+            [
+                {
+                    "endOffset": 59, 
+                    "label": "q3", 
+                    "startOffset": 41
+                }
+            ], 
+            [
+                {
+                    "endOffset": 59, 
+                    "label": "q3", 
+                    "startOffset": 42
+                }, 
+                {
+                    "endOffset": 63, 
+                    "label": "q2", 
+                    "startOffset": 61
+                }, 
+                {
+                    "endOffset": 115, 
+                    "label": "q3", 
+                    "startOffset": 96
+                }
+            ], 
+            [
+                {
+                    "endOffset": 59, 
+                    "label": "q3", 
+                    "startOffset": 42
+                }, 
+                {
+                    "endOffset": 62, 
+                    "label": "q2", 
+                    "startOffset": 61
+                }, 
+                {
+                    "endOffset": 115, 
+                    "label": "q3", 
+                    "startOffset": 93
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-07-30 19:24:57", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "644159017317740544": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 27, 
+                    "label": "q2", 
+                    "startOffset": 18
+                }, 
+                {
+                    "endOffset": 46, 
+                    "label": "q3", 
+                    "startOffset": 34
+                }, 
+                {
+                    "endOffset": 88, 
+                    "label": "q1", 
+                    "startOffset": 77
+                }
+            ], 
+            [
+                {
+                    "endOffset": 27, 
+                    "label": "q2", 
+                    "startOffset": 18
+                }, 
+                {
+                    "endOffset": 46, 
+                    "label": "q3", 
+                    "startOffset": 34
+                }, 
+                {
+                    "endOffset": 89, 
+                    "label": "q1", 
+                    "startOffset": 77
+                }
+            ], 
+            [
+                {
+                    "endOffset": 27, 
+                    "label": "q2", 
+                    "startOffset": 18
+                }, 
+                {
+                    "endOffset": 46, 
+                    "label": "q3", 
+                    "startOffset": 34
+                }, 
+                {
+                    "endOffset": 88, 
+                    "label": "q1", 
+                    "startOffset": 76
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2015-09-16 14:40:52", 
+        "issue": "immig", 
+        "text": ""
+    }, 
+    "647055011340492801": {
+        "annotations": [
+            [], 
+            [
+                {
+                    "endOffset": 31, 
+                    "label": "q1", 
+                    "startOffset": 5
+                }, 
+                {
+                    "endOffset": 49, 
+                    "label": "q2", 
+                    "startOffset": 46
+                }, 
+                {
+                    "endOffset": 116, 
+                    "label": "q1", 
+                    "startOffset": 104
+                }
+            ], 
+            [
+                {
+                    "endOffset": 18, 
+                    "label": "q1", 
+                    "startOffset": 9
+                }, 
+                {
+                    "endOffset": 116, 
+                    "label": "q1", 
+                    "startOffset": 104
+                }, 
+                {
+                    "endOffset": 126, 
+                    "label": "q2", 
+                    "startOffset": 117
+                }, 
+                {
+                    "endOffset": 135, 
+                    "label": "q2", 
+                    "startOffset": 127
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2015-09-24 14:28:31", 
+        "issue": "immig", 
+        "text": ""
+    }, 
+    "651846818070982656": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 10, 
+                    "label": "q2", 
+                    "startOffset": 7
+                }, 
+                {
+                    "endOffset": 111, 
+                    "label": "q1", 
+                    "startOffset": 90
+                }
+            ], 
+            [
+                {
+                    "endOffset": 9, 
+                    "label": "q2", 
+                    "startOffset": 7
+                }, 
+                {
+                    "endOffset": 88, 
+                    "label": "q2", 
+                    "startOffset": 71
+                }, 
+                {
+                    "endOffset": 102, 
+                    "label": "q1", 
+                    "startOffset": 94
+                }
+            ], 
+            [
+                {
+                    "endOffset": 9, 
+                    "label": "q2", 
+                    "startOffset": 7
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2015-10-07 19:49:26", 
+        "issue": "immig", 
+        "text": ""
+    }, 
+    "662670042966847488": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 64, 
+                    "label": "q3", 
+                    "startOffset": 46
+                }
+            ], 
+            [
+                {
+                    "endOffset": 42, 
+                    "label": "q1", 
+                    "startOffset": 32
+                }, 
+                {
+                    "endOffset": 64, 
+                    "label": "q3", 
+                    "startOffset": 46
+                }, 
+                {
+                    "endOffset": 75, 
+                    "label": "q3", 
+                    "startOffset": 69
+                }, 
+                {
+                    "endOffset": 80, 
+                    "label": "q3", 
+                    "startOffset": 78
+                }
+            ], 
+            [
+                {
+                    "endOffset": 42, 
+                    "label": "q1", 
+                    "startOffset": 32
+                }, 
+                {
+                    "endOffset": 75, 
+                    "label": "q3", 
+                    "startOffset": 46
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-11-06 16:37:04", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "675406967750311938": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 8, 
+                    "label": "q3", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 52, 
+                    "label": "q3", 
+                    "startOffset": 34
+                }, 
+                {
+                    "endOffset": 87, 
+                    "label": "q1", 
+                    "startOffset": 76
+                }
+            ], 
+            [
+                {
+                    "endOffset": 52, 
+                    "label": "q3", 
+                    "startOffset": 34
+                }, 
+                {
+                    "endOffset": 87, 
+                    "label": "q1", 
+                    "startOffset": 76
+                }
+            ], 
+            [
+                {
+                    "endOffset": 9, 
+                    "label": "q3", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 52, 
+                    "label": "q3", 
+                    "startOffset": 34
+                }, 
+                {
+                    "endOffset": 87, 
+                    "label": "q1", 
+                    "startOffset": 76
+                }
+            ], 
+            [
+                {
+                    "endOffset": 52, 
+                    "label": "q3", 
+                    "startOffset": 34
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2015-12-11 20:09:04", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "676448471013019650": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 37, 
+                    "label": "q2", 
+                    "startOffset": 35
+                }, 
+                {
+                    "endOffset": 85, 
+                    "label": "q3", 
+                    "startOffset": 58
+                }, 
+                {
+                    "endOffset": 122, 
+                    "label": "q1", 
+                    "startOffset": 113
+                }
+            ], 
+            [
+                {
+                    "endOffset": 36, 
+                    "label": "q2", 
+                    "startOffset": 35
+                }, 
+                {
+                    "endOffset": 84, 
+                    "label": "q3", 
+                    "startOffset": 57
+                }
+            ], 
+            []
+        ], 
+        "author-label": 1, 
+        "dop": "2015-12-14 17:07:37", 
+        "issue": "isis", 
+        "text": ""
+    }, 
+    "686898963384012800": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 77, 
+                    "label": "q3", 
+                    "startOffset": 53
+                }
+            ], 
+            [
+                {
+                    "endOffset": 1, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 77, 
+                    "label": "q3", 
+                    "startOffset": 17
+                }, 
+                {
+                    "endOffset": 133, 
+                    "label": "q1", 
+                    "startOffset": 103
+                }
+            ], 
+            [
+                {
+                    "endOffset": 2, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 77, 
+                    "label": "q2", 
+                    "startOffset": 17
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2016-01-12 13:14:09", 
+        "issue": "isis", 
+        "text": ""
+    }, 
+    "690600109516566528": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 23, 
+                    "label": "q1", 
+                    "startOffset": 0
+                }
+            ], 
+            [
+                {
+                    "endOffset": 23, 
+                    "label": "q1", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 90, 
+                    "label": "q2", 
+                    "startOffset": 78
+                }
+            ], 
+            [
+                {
+                    "endOffset": 24, 
+                    "label": "q1", 
+                    "startOffset": 17
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2016-01-22 18:21:11", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "705065212337065985": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 11, 
+                    "label": "q2", 
+                    "startOffset": 1
+                }, 
+                {
+                    "endOffset": 100, 
+                    "label": "q1", 
+                    "startOffset": 95
+                }
+            ], 
+            [
+                {
+                    "endOffset": 12, 
+                    "label": "q2", 
+                    "startOffset": 2
+                }, 
+                {
+                    "endOffset": 101, 
+                    "label": "q1", 
+                    "startOffset": 96
+                }
+            ], 
+            [
+                {
+                    "endOffset": 11, 
+                    "label": "q2", 
+                    "startOffset": 2
+                }, 
+                {
+                    "endOffset": 100, 
+                    "label": "q1", 
+                    "startOffset": 96
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2016-03-02 16:20:20", 
+        "issue": "abort", 
+        "text": ""
+    }, 
+    "714504834960007173": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 30, 
+                    "label": "q3", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 61, 
+                    "label": "q1", 
+                    "startOffset": 51
+                }
+            ], 
+            [
+                {
+                    "endOffset": 30, 
+                    "label": "q3", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 62, 
+                    "label": "q1", 
+                    "startOffset": 51
+                }, 
+                {
+                    "endOffset": 99, 
+                    "label": "q1", 
+                    "startOffset": 94
+                }
+            ], 
+            [
+                {
+                    "endOffset": 30, 
+                    "label": "q3", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 62, 
+                    "label": "q1", 
+                    "startOffset": 51
+                }, 
+                {
+                    "endOffset": 99, 
+                    "label": "q1", 
+                    "startOffset": 94
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2016-03-28 17:30:02", 
+        "issue": "isis", 
+        "text": ""
+    }, 
+    "720615728152489987": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 13, 
+                    "label": "q2", 
+                    "startOffset": 4
+                }, 
+                {
+                    "endOffset": 30, 
+                    "label": "q2", 
+                    "startOffset": 28
+                }, 
+                {
+                    "endOffset": 65, 
+                    "label": "q1", 
+                    "startOffset": 54
+                }, 
+                {
+                    "endOffset": 88, 
+                    "label": "q3", 
+                    "startOffset": 77
+                }
+            ], 
+            [
+                {
+                    "endOffset": 65, 
+                    "label": "q1", 
+                    "startOffset": 53
+                }, 
+                {
+                    "endOffset": 88, 
+                    "label": "q3", 
+                    "startOffset": 78
+                }
+            ], 
+            [
+                {
+                    "endOffset": 31, 
+                    "label": "q2", 
+                    "startOffset": 28
+                }, 
+                {
+                    "endOffset": 65, 
+                    "label": "q1", 
+                    "startOffset": 54
+                }, 
+                {
+                    "endOffset": 88, 
+                    "label": "q3", 
+                    "startOffset": 78
+                }
+            ]
+        ], 
+        "author-label": 1, 
+        "dop": "2016-04-14 14:12:32", 
+        "issue": "isis", 
+        "text": ""
+    }, 
+    "734383328514609152": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 16, 
+                    "label": "q2", 
+                    "startOffset": 8
+                }
+            ], 
+            [], 
+            []
+        ], 
+        "author-label": 0, 
+        "dop": "2016-05-22 14:00:04", 
+        "issue": "guns", 
+        "text": ""
+    }, 
+    "742341089235992576": {
+        "annotations": [
+            [
+                {
+                    "endOffset": 1, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 43, 
+                    "label": "q3", 
+                    "startOffset": 30
+                }, 
+                {
+                    "endOffset": 85, 
+                    "label": "q2", 
+                    "startOffset": 73
+                }
+            ], 
+            [
+                {
+                    "endOffset": 1, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 43, 
+                    "label": "q3", 
+                    "startOffset": 30
+                }, 
+                {
+                    "endOffset": 66, 
+                    "label": "q1", 
+                    "startOffset": 59
+                }
+            ], 
+            [
+                {
+                    "endOffset": 43, 
+                    "label": "q3", 
+                    "startOffset": 30
+                }, 
+                {
+                    "endOffset": 66, 
+                    "label": "q1", 
+                    "startOffset": 59
+                }
+            ], 
+            [
+                {
+                    "endOffset": 1, 
+                    "label": "q2", 
+                    "startOffset": 0
+                }, 
+                {
+                    "endOffset": 43, 
+                    "label": "q3", 
+                    "startOffset": 30
+                }, 
+                {
+                    "endOffset": 66, 
+                    "label": "q1", 
+                    "startOffset": 59
+                }
+            ]
+        ], 
+        "author-label": 0, 
+        "dop": "2016-06-13 13:01:22", 
+        "issue": "guns", 
+        "text": ""
+    }
+}
