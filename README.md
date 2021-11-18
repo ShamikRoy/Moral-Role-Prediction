@@ -8,7 +8,7 @@ This repository contains dataset and codes for predicting subframes in text. The
 
 ## Dataset
 
-The annotated tweet dataset can be found in the _'annotated_dataset'_ folder. The folder contains separate json files for each of the Moral Foundations. Upon parsing the json files a dictionary of the following format can be found -
+The annotated tweet dataset can be found in the _'annotated_dataset'_ folder. The folder contains separate json files for each of the Moral Foundations. Upon parsing the json files a dictionary of the following format can be found.
 
 ```
 {
@@ -30,4 +30,4 @@ issue : Topic of the tweet
 text : tweet text
 ```
 
-The _'dataset_description'_ file contains more information about the data files. Note that we cannot release the tweet texts because of Twitter Privacy Policy. The tweet text can be parsed using the tweet_ids provided in the json files. If you need those immediately or require any help in parsing feel free to send an e-mail to roy98@purdue.edu
+The _'dataset_description'_ file contains more information about the data files. Note that, we cannot release the tweet texts because of Twitter Privacy Policy. The tweet text can be parsed using the tweet_ids provided in the json files. If you need those immediately or require any help in parsing feel free to send an e-mail to roy98@purdue.edu
