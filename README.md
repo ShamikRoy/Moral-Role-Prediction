@@ -31,3 +31,17 @@ text : tweet text
 ```
 
 The _'dataset_description'_ file contains more information about the data files. Note that, we cannot release the tweet texts because of Twitter Privacy Policy. The tweet text can be parsed using the tweet_ids provided in the json files. If you need those immediately or require any help in parsing feel free to send an e-mail to roy98@purdue.edu
+
+
+## Citation
+If you find the dataset and approach helpful in your work, please cite the paper.
+
+```
+@inproceedings{roy2021identifying,
+  title={Identifying Morality Frames in Political Tweets using Relational Learning},
+  author={Roy, Shamik and Pacheco, Mar{\'\i}a Leonor and Goldwasser, Dan},
+  booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  pages={9939--9958},
+  year={2021}
+}
+```
