@@ -21,7 +21,6 @@ tweet_id:
   'text': ...
   }
 }
-```
 
 tweet_id : Actual tweet id
 annotations : Character indexed annotation by each of the annotators
@@ -29,5 +28,6 @@ author-label : Political affiliation of the author of the tweet (Republican or D
 dop : Date of Publication
 issue : Topic of the tweet
 text : tweet text
+```
 
 The 'dataset_description.txt' file contains more information about the data files. Note that we cannot release the tweet texts because of Twitter Privacy Policy. The tweet text can be parsed using the tweet_ids provided in the json files. If you need those immediately or require any help in parsing feel free to send an e-mail to: roy98@purdue.edu
