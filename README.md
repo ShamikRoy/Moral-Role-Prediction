@@ -10,16 +10,18 @@ This repository contains dataset and codes for predicting subframes in text. The
 
 The annotated tweet dataset can be found in the 'anonymized_data' folder. The folder contains separate json files for each of the Moral Foundations. Upon parsing the json files a dictionary of the following format can be found -
 
+```
 {
 tweet_id:
->>  {
->>  'annotations': ...,
->>  'author-label': ..., 
->>  'dop': ..., 
->>  'issue': ..., 
->>  'text': ...
->>  }
+  {
+  'annotations': ...,
+  'author-label': ..., 
+  'dop': ..., 
+  'issue': ..., 
+  'text': ...
+  }
 }
+```
 
 tweet_id : Actual tweet id
 annotations : Character indexed annotation by each of the annotators
