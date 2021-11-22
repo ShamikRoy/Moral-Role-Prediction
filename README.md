@@ -30,8 +30,10 @@ issue : Topic of the tweet
 text : tweet text
 ```
 
-The _'dataset_description.txt'_ file contains more information about the data files. Note that, we cannot release the tweet texts because of Twitter Privacy Policy. The tweet text can be parsed using the tweet_ids provided in the json files. If you need those immediately or require any help in parsing feel free to send an e-mail to roy98@purdue.edu
+The _'dataset_description.txt'_ file contains more information about the data files. Note that, we cannot release the tweet texts because of Twitter Privacy Policy. The tweet text can be parsed using the tweet_ids provided in the json files. If you need those immediately or require any help in parsing feel free to send an e-mail to roy98@purdue.edu .
 
+## Code
+Coming Soon. Please send an e-mail to roy98@purdue.edu for emergency cases. 
 
 ## Citation
 If you find the dataset and approach helpful in your work, please cite the paper.
